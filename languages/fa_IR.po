@@ -1,0 +1,3750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: paradox\n"
+"POT-Creation-Date: 2022-10-19 10:46+0200\n"
+"PO-Revision-Date: 2022-10-21 05:51-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:13
+#, php-format
+msgid "1 نظر"
+msgid_plural "%d نظر"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:14
+msgid "بی صبرانه مشتاق نظرات شما هستیم."
+msgstr ""
+
+#: comments.php:14
+msgid "اولین نفری باشید که نظر می دهد."
+msgstr ""
+
+#: comments.php:36
+msgid "نظرات توسط مدیر سایت بسته شده"
+msgstr ""
+
+#: comments.php:42
+msgid "نظرات توسط مدیر سایت بسته شده است."
+msgstr ""
+
+#: functions.php:15
+msgid "فوتر پیش فرض قالب"
+msgstr ""
+
+#: functions.php:39
+msgid "هدر پیش فرض قالب"
+msgstr ""
+
+#: functions.php:64
+msgid "paradox Core"
+msgstr ""
+
+#: functions.php:71
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:76
+msgid "Elementor"
+msgstr ""
+
+#: functions.php:81
+msgid "تکه‌مسیر NavXT"
+msgstr ""
+
+#: functions.php:86
+msgid "Mailchimp"
+msgstr ""
+
+#: functions.php:91
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:96
+msgid "Woo Wallet"
+msgstr ""
+
+#: functions.php:156
+msgid "Main Header Menu"
+msgstr ""
+
+#: functions.php:157
+msgid "Mobile Side Menu"
+msgstr ""
+
+#: functions.php:158
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:166
+msgid "مدرسین"
+msgstr ""
+
+#: functions.php:167
+msgid "مدرس"
+msgstr ""
+
+#: functions.php:168 functions.php:169
+msgid "افزودن مدرس"
+msgstr ""
+
+#: functions.php:170
+msgid "ویرایش مدرس"
+msgstr ""
+
+#: functions.php:171
+msgid "بروزرسانی مدرس"
+msgstr ""
+
+#: functions.php:182
+msgctxt "Post Type General Name"
+msgid "هدرها"
+msgstr ""
+
+#: functions.php:183
+msgctxt "Post Type Singular Name"
+msgid "هدر"
+msgstr ""
+
+#: functions.php:184
+msgid "هدرها"
+msgstr ""
+
+#: functions.php:185
+msgid "هدر والد:"
+msgstr ""
+
+#: functions.php:186
+msgid "همه هدرها"
+msgstr ""
+
+#: functions.php:187
+msgid "مشاهده هدر"
+msgstr ""
+
+#: functions.php:188
+msgid "افزودن هدر جدید"
+msgstr ""
+
+#: functions.php:189 functions.php:213 functions.php:238
+msgid "افزودن جدید"
+msgstr ""
+
+#: functions.php:190
+msgid "ویرایش هدر"
+msgstr ""
+
+#: functions.php:191
+msgid "بروزرسانی هدر"
+msgstr ""
+
+#: functions.php:192
+msgid "جستجوی هدر"
+msgstr ""
+
+#: functions.php:193 functions.php:217 functions.php:242
+msgid "یافت نشد"
+msgstr ""
+
+#: functions.php:194 functions.php:218 functions.php:243
+msgid "Not found in Trash"
+msgstr ""
+
+#: functions.php:200
+msgid "نوشته نوع هدر"
+msgstr ""
+
+#: functions.php:206
+msgctxt "Post Type General Name"
+msgid "فوترها"
+msgstr ""
+
+#: functions.php:207
+msgctxt "Post Type Singular Name"
+msgid "فوتر"
+msgstr ""
+
+#: functions.php:208
+msgid "فوترها"
+msgstr ""
+
+#: functions.php:209
+msgid "فوتر والد:"
+msgstr ""
+
+#: functions.php:210
+msgid "همه فوترها"
+msgstr ""
+
+#: functions.php:211
+msgid "مشاهده فوتر"
+msgstr ""
+
+#: functions.php:212
+msgid "افزودن فوتر جدید"
+msgstr ""
+
+#: functions.php:214
+msgid "ویرایش فوتر"
+msgstr ""
+
+#: functions.php:215
+msgid "بروزرسانی فوتر"
+msgstr ""
+
+#: functions.php:216
+msgid "جستجوی فوتر"
+msgstr ""
+
+#: functions.php:224
+msgid "نوشته نوع فوتر"
+msgstr ""
+
+#: functions.php:231
+msgctxt "Post Type General Name"
+msgid "پیغام ها"
+msgstr ""
+
+#: functions.php:232
+msgctxt "Post Type Singular Name"
+msgid "پیغام"
+msgstr ""
+
+#: functions.php:233
+msgid "پیغام ها"
+msgstr ""
+
+#: functions.php:234
+msgid "پیغام والد:"
+msgstr ""
+
+#: functions.php:235
+msgid "همه پیغام ها"
+msgstr ""
+
+#: functions.php:236
+msgid "مشاهده پیغام"
+msgstr ""
+
+#: functions.php:237
+msgid "افزودن پیغام جدید"
+msgstr ""
+
+#: functions.php:239
+msgid "ویرایش پیغام"
+msgstr ""
+
+#: functions.php:240
+msgid "بروزرسانی پیغام"
+msgstr ""
+
+#: functions.php:241
+msgid "جستجوی پیغام"
+msgstr ""
+
+#: functions.php:249
+msgid "نوشته نوع پیغام"
+msgstr ""
+
+#: functions.php:343
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:345 functions.php:357 functions.php:368 functions.php:379
+#: functions.php:390 functions.php:401
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:355
+msgid "فوتر 1"
+msgstr ""
+
+#: functions.php:366
+msgid "فوتر 2"
+msgstr ""
+
+#: functions.php:377
+msgid "فوتر 3"
+msgstr ""
+
+#: functions.php:388
+msgid "فوتر 4"
+msgstr ""
+
+#: functions.php:399
+msgid "صفحات دوره ها"
+msgstr ""
+
+#: functions.php:559 woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr ""
+
+#: inc/paradox_function.php:19 inc/paradox_function.php:28
+msgid "تنظیمات صفحه"
+msgstr ""
+
+#: inc/paradox_function.php:40
+msgid "تنظیمات استایل هدر"
+msgstr ""
+
+#: inc/paradox_function.php:49
+msgid "غیرفعال کردن نوار بالا"
+msgstr ""
+
+#: inc/paradox_function.php:54
+msgid "غیرفعال کردن عنوان صفحه"
+msgstr ""
+
+#: inc/paradox_function.php:59
+msgid "غیرفعال کردن مسیرهای سایت"
+msgstr ""
+
+#: inc/paradox_function.php:64
+msgid "غیرفعال کردن فوتر"
+msgstr ""
+
+#: inc/paradox_function.php:69
+msgid "رنگ پس زمینه"
+msgstr ""
+
+#: inc/paradox_function.php:74
+msgid "تصویر پس زمینه"
+msgstr ""
+
+#: inc/paradox_function.php:82 inc/paradox_function.php:536
+msgid "تنظیمات نوشته"
+msgstr ""
+
+#: inc/paradox_function.php:90 inc/paradox_function.php:544
+msgid "تنظیمات سایدبار"
+msgstr ""
+
+#: inc/paradox_function.php:98 inc/paradox_function.php:552
+msgid "تنظیمات نوشته صوتی"
+msgstr ""
+
+#: inc/paradox_function.php:109 inc/paradox_function.php:563
+msgid "تنظیمات نوشته ویدیویی"
+msgstr ""
+
+#: inc/paradox_function.php:118 inc/paradox_function.php:572
+msgid "باکس دانلود نوشته"
+msgstr ""
+
+#: inc/paradox_function.php:143
+msgid "دوره های مرتبط"
+msgstr ""
+
+#: inc/paradox_function.php:152
+msgid "غیر فعال کردن سایدبار فقط برای این نوشته"
+msgstr ""
+
+#: inc/paradox_function.php:158 inc/paradox_function.php:598
+msgid "آپلود فایل صوتی شما"
+msgstr ""
+
+#: inc/paradox_function.php:164 inc/paradox_function.php:604
+msgid "شماره پادکست"
+msgstr ""
+
+#: inc/paradox_function.php:166 inc/paradox_function.php:606
+msgid "اینجا باید شماره پادکست را به دلخواه وارد کنید (مثلا : شماره 57)"
+msgstr ""
+
+#: inc/paradox_function.php:171 inc/paradox_function.php:611
+msgid "مدت زمان پادکست"
+msgstr ""
+
+#: inc/paradox_function.php:173 inc/paradox_function.php:613
+msgid "اینجا باید زمان پادکست را وارد کنید (مثلا : 10:48)"
+msgstr ""
+
+#: inc/paradox_function.php:178 inc/paradox_function.php:618
+msgid "آپلود تصویر برای المان"
+msgstr ""
+
+#: inc/paradox_function.php:180 inc/paradox_function.php:620
+msgid ""
+"اینجا می تونید یک تصویر دلخواه برای نمایش در المان پادکست انتخاب کنید اگر "
+"خالی بگذارید تصویر شاخص این پست به عنوان تصویر در نظر گرفته می شود."
+msgstr ""
+
+#: inc/paradox_function.php:185
+msgid "آپلود فایل ویدیویی شما"
+msgstr ""
+
+#: inc/paradox_function.php:190 inc/paradox_function.php:484
+#: inc/paradox_function.php:791
+msgid "پوستر کاور ویدئو"
+msgstr ""
+
+#: inc/paradox_function.php:197
+msgid "تنظیمات مربوط به باکس دانلود نوشته"
+msgstr ""
+
+#: inc/paradox_function.php:199
+msgid ""
+"به کمک این بخش می توانید فایل های قابل دانلود نوشته خود را در باکس دانلود درج "
+"کنید"
+msgstr ""
+
+#: inc/paradox_function.php:203
+msgid "محدود کردن مشاهده لینک های دانلود به اعضای وارد شده"
+msgstr ""
+
+#: inc/paradox_function.php:205
+msgid ""
+"اگر این گزینه را تیک بزنید، فقط اعضایی که عضو و وارد حساب کاربری خود شده "
+"باشند لینک ها را مشاهده خواهند کرد."
+msgstr ""
+
+#: inc/paradox_function.php:209
+msgid "محل وارد کردن متن دلخواه شما برای باکس دانلود"
+msgstr ""
+
+#: inc/paradox_function.php:214
+msgid "پسورد فایل های زیپ"
+msgstr ""
+
+#: inc/paradox_function.php:216
+msgid "اگر پسورد ندارد بنویسید : ندارد."
+msgstr ""
+
+#: inc/paradox_function.php:220
+msgid "لینک های دانلود"
+msgstr ""
+
+#: inc/paradox_function.php:222
+msgid "لینک های دانلود خود را در فیلد های زیر وارد کنید"
+msgstr ""
+
+#: inc/paradox_function.php:228
+msgid "برای اضافه کردن لینک دانلود بیشتر"
+msgstr ""
+
+#: inc/paradox_function.php:230
+msgid "لینک دانلود"
+msgstr ""
+
+#: inc/paradox_function.php:231
+msgid "اضافه کردن لینک دانلود"
+msgstr ""
+
+#: inc/paradox_function.php:232
+msgid "حذف لینک دانلود"
+msgstr ""
+
+#: inc/paradox_function.php:238
+msgid "عنوان لینک"
+msgstr ""
+
+#: inc/paradox_function.php:243
+msgid "نشانی لینک"
+msgstr ""
+
+#: inc/paradox_function.php:248
+msgid "دسته بندی مرتبط دوره ها با این نوشته"
+msgstr ""
+
+#: inc/paradox_function.php:249
+msgid ""
+"فقط کافی است که نامک دسته بندی های مورد نظر را اینجا وارد کنید. دسته بندی ها "
+"را با کاما , از هم جدا کنید. مثلا: wordpress,joomla"
+msgstr ""
+
+#: inc/paradox_function.php:257 inc/paradox_function.php:627
+msgid "تنظیمات دوره"
+msgstr ""
+
+#: inc/paradox_function.php:312
+msgid "متن سفارشی دکمه ثبت نام"
+msgstr ""
+
+#: inc/paradox_function.php:313
+msgid "می توانید متن دکمه خرید دوره را سفارشی وارد کنید"
+msgstr ""
+
+#: inc/paradox_function.php:320 inc/paradox_function.php:679
+msgid "استاد دوره"
+msgstr ""
+
+#: inc/paradox_function.php:321 inc/paradox_function.php:680
+msgid "استاد دوره را انتخاب کنید"
+msgstr ""
+
+#: inc/paradox_function.php:328
+msgid "مدرس دوم (اختیاری)"
+msgstr ""
+
+#: inc/paradox_function.php:329
+msgid "مدرس دوم را در صورت وجود انتخاب کنید"
+msgstr ""
+
+#: inc/paradox_function.php:336
+msgid "زبان"
+msgstr ""
+
+#: inc/paradox_function.php:343 inc/paradox_function.php:687
+msgid "زمان دوره"
+msgstr ""
+
+#: inc/paradox_function.php:344 inc/paradox_function.php:688
+msgid "زمان دوره به ساعت"
+msgstr ""
+
+#: inc/paradox_function.php:351
+msgid "نوع دوره"
+msgstr ""
+
+#: inc/paradox_function.php:352
+msgid "مثلا دروه حضوری است یا غیر حضوری؟"
+msgstr ""
+
+#: inc/paradox_function.php:359
+msgid "پیش نیاز دوره"
+msgstr ""
+
+#: inc/paradox_function.php:360
+msgid "مثلا HTML CSS"
+msgstr ""
+
+#: inc/paradox_function.php:367
+msgid "تاریخ شروع دوره"
+msgstr ""
+
+#: inc/paradox_function.php:368 inc/paradox_function.php:376
+msgid "مثلا: 11 اردیبهشت 1397"
+msgstr ""
+
+#: inc/paradox_function.php:375 inc/paradox_function.php:711
+msgid "تاریخ بروزرسانی دوره"
+msgstr ""
+
+#: inc/paradox_function.php:383
+msgid "حجم کل دوره"
+msgstr ""
+
+#: inc/paradox_function.php:384
+msgid "مثلا: 450 مگابایت"
+msgstr ""
+
+#: inc/paradox_function.php:391
+msgid "درس ها"
+msgstr ""
+
+#: inc/paradox_function.php:392
+msgid "تعداد درس هایی که دوره دارد"
+msgstr ""
+
+#: inc/paradox_function.php:399
+msgid "روش پشتیبانی"
+msgstr ""
+
+#: inc/paradox_function.php:400
+msgid "مثلا: تلفنی یا ارسال تیکت"
+msgstr ""
+
+#: inc/paradox_function.php:407
+msgid "روش دریافت"
+msgstr ""
+
+#: inc/paradox_function.php:408
+msgid "مثلا: دانلود فایل دورس"
+msgstr ""
+
+#: inc/paradox_function.php:415
+msgid "مدرک"
+msgstr ""
+
+#: inc/paradox_function.php:422
+msgid "سطح مهارت"
+msgstr ""
+
+#: inc/paradox_function.php:429
+msgid "درصد پیشرفت دوره"
+msgstr ""
+
+#: inc/paradox_function.php:431
+msgid "فقط عدد را بدون علامت درصد وارد کنید."
+msgstr ""
+
+#: inc/paradox_function.php:439
+msgid "ویژگی های سفارشی دلخواه برای محصول"
+msgstr ""
+
+#: inc/paradox_function.php:441
+msgid "ویژگی های سفارشی"
+msgstr ""
+
+#: inc/paradox_function.php:442
+msgid "افزودن ویژگی جدید"
+msgstr ""
+
+#: inc/paradox_function.php:443
+msgid "حذف ویژگی"
+msgstr ""
+
+#: inc/paradox_function.php:449
+msgid "عنوان ویژگی"
+msgstr ""
+
+#: inc/paradox_function.php:455
+msgid "مقدار روبروی ویژگی"
+msgstr ""
+
+#: inc/paradox_function.php:461
+msgid "آیکون ویژگی"
+msgstr ""
+
+#: inc/paradox_function.php:462
+msgid "اینجا باید کلاس آیکون را وارد کنید"
+msgstr ""
+
+#: inc/paradox_function.php:468 inc/paradox_function.php:775
+msgid "فعال کردن حالت پیش نمایش ویدیو دوره"
+msgstr ""
+
+#: inc/paradox_function.php:469 inc/paradox_function.php:776
+msgid ""
+"اگر این گزینه را تیک بزنید به جای تصویر شاخص پیش فرض دوره تصویر و ویدیو این "
+"بخش به جای آن نمایش داده می شود."
+msgstr ""
+
+#: inc/paradox_function.php:476 inc/paradox_function.php:783
+msgid "آدرس ویدیو را اضافه کنید"
+msgstr ""
+
+#: inc/paradox_function.php:477 inc/paradox_function.php:784
+msgid "پشتیبانی از: لینک مستقیم, Youtube لینک, Vimeo لینک."
+msgstr ""
+
+#: inc/paradox_function.php:493
+msgid "کد نقشه گوگل"
+msgstr ""
+
+#: inc/paradox_function.php:494
+msgid ""
+"کد Embed a map محل مورد نظر خود که از اشتراک گذاری گوگل مپ دریافت کرده اید را "
+"وارد کنید."
+msgstr ""
+
+#: inc/paradox_function.php:502
+msgid "ناحیه اضافی برای استفاده دلخواه"
+msgstr ""
+
+#: inc/paradox_function.php:510
+msgid "محل وارد کردن متن،کد یا شرتکد دلخواه شما"
+msgstr ""
+
+#: inc/paradox_function.php:518
+msgid "اطلاعات استاد"
+msgstr ""
+
+#: inc/paradox_function.php:525
+msgid "شغل استاد"
+msgstr ""
+
+#: inc/paradox_function.php:634
+msgid "جلسات دوره"
+msgstr ""
+
+#: inc/paradox_function.php:642
+msgid "سوالات متداول دوره"
+msgstr ""
+
+#: inc/paradox_function.php:695
+msgid "تعداد جلسات"
+msgstr ""
+
+#: inc/paradox_function.php:696
+msgid "مثلا : 43"
+msgstr ""
+
+#: inc/paradox_function.php:703
+msgid "حجم دوره"
+msgstr ""
+
+#: inc/paradox_function.php:704
+msgid "مثلا : 450 مگابایت"
+msgstr ""
+
+#: inc/paradox_function.php:712
+msgid "مثلا : 1401/05/02"
+msgstr ""
+
+#: inc/paradox_function.php:719
+msgid "پشتیبان دوره"
+msgstr ""
+
+#: inc/paradox_function.php:720
+msgid "مثلا : از طریق واتساپ"
+msgstr ""
+
+#: inc/paradox_function.php:727
+msgid "وضعیت دوره"
+msgstr ""
+
+#: inc/paradox_function.php:728
+msgid "مثلا : درحال برگذاری..."
+msgstr ""
+
+#: inc/paradox_function.php:735
+msgid "فعال کردن باکس عضویت ویژه"
+msgstr ""
+
+#: inc/paradox_function.php:736
+msgid "اگر این گزینه را تیک بزنید باکس عضویت ویژه برای این دوره اضافه می شود."
+msgstr ""
+
+#: inc/paradox_function.php:743
+msgid "فعال کردن باکس گارانتی"
+msgstr ""
+
+#: inc/paradox_function.php:744
+msgid "اگر این گزینه را تیک بزنید باکس گارنتی برای این دوره اضافه می شود."
+msgstr ""
+
+#: inc/paradox_function.php:753
+msgid "سوالات متدوال دوره رو می تونید از این بخش اضافه کنید."
+msgstr ""
+
+#: inc/paradox_function.php:755
+msgid "سوالات متدوال"
+msgstr ""
+
+#: inc/paradox_function.php:756
+msgid "افزودن سوال"
+msgstr ""
+
+#: inc/paradox_function.php:757
+msgid "حذف سوال"
+msgstr ""
+
+#: inc/paradox_function.php:763
+msgid "عنوان سوال"
+msgstr ""
+
+#: inc/paradox_function.php:769
+msgid "پاسخ سوال"
+msgstr ""
+
+#: inc/paradox_function.php:802
+msgid "لطفاً بخش یا فصل های درس رو اینجا اضافه کنید"
+msgstr ""
+
+#: inc/paradox_function.php:804
+msgid "سرفصل ها"
+msgstr ""
+
+#: inc/paradox_function.php:805
+msgid "افزودن فصل"
+msgstr ""
+
+#: inc/paradox_function.php:806
+msgid "حذف فصل"
+msgstr ""
+
+#: inc/paradox_function.php:812
+msgid "عنوان فصل"
+msgstr ""
+
+#: inc/paradox_function.php:818
+msgid "جلسات"
+msgstr ""
+
+#: inc/paradox_function.php:825
+msgid "عنوان جلسات را اضافه کنید"
+msgstr ""
+
+#: inc/paradox_function.php:829
+msgid "لینک دانلود ها"
+msgstr ""
+
+#: inc/paradox_function.php:836
+msgid ""
+"نکته مهم : لینک جلسات رو طبق بخش بالا به ترتیب اضافه کنید یعنی اگر لینک مثلاً "
+"شماره 3 را وارد کنید برای عنوان شماره 3 در نظر گرفته می شود."
+msgstr ""
+
+#: inc/paradox_function.php:840
+msgid "زمان ویدیوها"
+msgstr ""
+
+#: inc/paradox_function.php:847
+msgid ""
+"نکته مهم : زمان ویدیو هر جلسه رو طبق بخش بالا به ترتیب اضافه کنید یعنی مثلاً "
+"اگر زمان ویدیو شماره 3 را تنظیم کنید برای عنوان شماره 3 تنظیم می شود."
+msgstr ""
+
+#: inc/mega-menus.php:17
+msgid "فعالسازی مگامنو"
+msgstr ""
+
+#: inc/mega-menus.php:23
+msgid "تعداد ستون های مگامنو"
+msgstr ""
+
+#: inc/mega-menus.php:25
+msgid "خودکار"
+msgstr ""
+
+#: inc/mega-menus.php:446
+msgid "New"
+msgstr ""
+
+#: inc/mega-menus.php:449
+msgid "Hot"
+msgstr ""
+
+#: inc/mega-menus.php:452
+msgid "Sale"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: inc/mega-menus.php:665
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: inc/mega-menus.php:669
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/mega-menus.php:682
+msgid "sub item"
+msgstr ""
+
+#: inc/mega-menus.php:699
+msgid "Move up"
+msgstr ""
+
+#: inc/mega-menus.php:714
+msgid "Move down"
+msgstr ""
+
+#: inc/mega-menus.php:720
+msgid "Edit menu item"
+msgstr ""
+
+#: inc/mega-menus.php:720 woocommerce/myaccount/my-address.php:63
+msgid "Edit"
+msgstr ""
+
+#: inc/mega-menus.php:729
+msgid "URL"
+msgstr ""
+
+#: inc/mega-menus.php:736
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/mega-menus.php:742
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/mega-menus.php:749
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/mega-menus.php:754
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/mega-menus.php:760
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/mega-menus.php:766 inc/plugins/cmb2/example-functions.php:544
+msgid "Description"
+msgstr ""
+
+#: inc/mega-menus.php:768
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/mega-menus.php:775
+msgid "Move"
+msgstr ""
+
+#: inc/mega-menus.php:776
+msgid "Up one"
+msgstr ""
+
+#: inc/mega-menus.php:777
+msgid "Down one"
+msgstr ""
+
+#: inc/mega-menus.php:780
+msgid "To the top"
+msgstr ""
+
+#. translators: %s: original title
+#: inc/mega-menus.php:788
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/mega-menus.php:805 inc/plugins/cmb2/includes/CMB2_JS.php:241
+#: inc/plugins/cmb2/includes/CMB2_Types.php:408
+#: inc/plugins/cmb2/includes/types/CMB2_Type_File_Base.php:95
+msgid "Remove"
+msgstr ""
+
+#: inc/mega-menus.php:817
+msgid "Cancel"
+msgstr ""
+
+#: inc/panel-settings.php:90 inc/panel-settings.php:93
+msgid "تنظیمات پارادوکس"
+msgstr ""
+
+#: inc/panel-settings.php:227
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/panel-settings.php:228 inc/panel-settings.php:233
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/panel-settings.php:232
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/panel-settings.php:239
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/panel-settings.php:255
+msgid "عمومی"
+msgstr ""
+
+#: inc/panel-settings.php:263
+msgid "انتخاب صفحه محصول"
+msgstr ""
+
+#: inc/panel-settings.php:264
+msgid ""
+"ما برای صفحه محصول قالب پارادوکس استایل های مختلفی رو در نظر گرفتیم که شما می "
+"تونید یکی از آنها رو انتخاب کنید."
+msgstr ""
+
+#: inc/panel-settings.php:275
+msgid "تصویر فایو آیکون"
+msgstr ""
+
+#: inc/panel-settings.php:276 inc/panel-settings.php:283
+#: inc/panel-settings.php:350
+msgid "آپلود تصویر png,jpg"
+msgstr ""
+
+#: inc/panel-settings.php:282
+msgid "تصویر رتینا فایو آیکون"
+msgstr ""
+
+#: inc/panel-settings.php:289
+msgid "فعال کردن لودینگ صفحه"
+msgstr ""
+
+#: inc/panel-settings.php:294
+msgid "انتخاب لودینگ"
+msgstr ""
+
+#: inc/panel-settings.php:309
+msgid "تنظیمات عمومی هدر"
+msgstr ""
+
+#: inc/panel-settings.php:316
+msgid "تنظیمات هدر عمومی"
+msgstr ""
+
+#: inc/panel-settings.php:324
+msgid "انتخاب هدر المنتوری"
+msgstr ""
+
+#: inc/panel-settings.php:331 inc/panel-settings.php:395
+#: inc/panel-settings.php:486 inc/panel-settings.php:525
+msgid ""
+"شما برای اینکه تنظیمات این بخش رو مشاهده کنید باید از بخش \"تنظیمات هدر عمومی"
+"\" هدر پیش فرض قالب رو انتخاب کنید"
+msgstr ""
+
+#: inc/panel-settings.php:337
+msgid "سربرگ را تمام عرض کنید"
+msgstr ""
+
+#: inc/panel-settings.php:343
+msgid "منوی چسپان"
+msgstr ""
+
+#: inc/panel-settings.php:349
+msgid "تصویر لوگو"
+msgstr ""
+
+#: inc/panel-settings.php:357
+msgid "پهنای تصویر لوگو"
+msgstr ""
+
+#: inc/panel-settings.php:367
+msgid "فاصله خارجی لوگو*"
+msgstr ""
+
+#: inc/panel-settings.php:368
+msgid "اضافه کردن مقدای فاصله به اطراف تصویر لوگوی شما"
+msgstr ""
+
+#: inc/panel-settings.php:387
+msgid "طرح بندی سربرگ"
+msgstr ""
+
+#: inc/panel-settings.php:401
+msgid "ارتفاع سربرگ*"
+msgstr ""
+
+#: inc/panel-settings.php:411
+msgid "دکمه روی سربرگ"
+msgstr ""
+
+#: inc/panel-settings.php:417
+msgid "لینک دکمه"
+msgstr ""
+
+#: inc/panel-settings.php:428
+msgid "متن دکمه دلخواه*"
+msgstr ""
+
+#: inc/panel-settings.php:435
+msgid "لینک سفارشی دکمه*"
+msgstr ""
+
+#: inc/panel-settings.php:442
+msgid "متن دکمه سربرگ بعد از لاگین *"
+msgstr ""
+
+#: inc/panel-settings.php:449
+msgid "لینک دکمه سربرگ بعد از لاگین کاربر"
+msgstr ""
+
+#: inc/panel-settings.php:456
+msgid "رنگ متن ناحیه سربرگ*"
+msgstr ""
+
+#: inc/panel-settings.php:466
+msgid "پس زمینه ناحیه سربرگ *"
+msgstr ""
+
+#: inc/panel-settings.php:477
+msgid "ناحیه عنوان صفحات"
+msgstr ""
+
+#: inc/panel-settings.php:492
+msgid "رنگ متن ناحیه عنوان سربرگ*"
+msgstr ""
+
+#: inc/panel-settings.php:502
+msgid "رنگ پس زمینه ناحیه عنوان صفحات*"
+msgstr ""
+
+#: inc/panel-settings.php:516
+msgid "نوار بالا سربرگ"
+msgstr ""
+
+#: inc/panel-settings.php:531
+msgid "نوار بالای سربرگ"
+msgstr ""
+
+#: inc/panel-settings.php:537
+msgid "رنگ متن نوار بالای سربرگ *"
+msgstr ""
+
+#: inc/panel-settings.php:548
+msgid "پس زمینه نوار بالایی *"
+msgstr ""
+
+#: inc/panel-settings.php:555
+msgid "شماره تلفن"
+msgstr ""
+
+#: inc/panel-settings.php:561
+msgid "آدرس ایمیل"
+msgstr ""
+
+#: inc/panel-settings.php:567
+msgid "نمایش/مخفی کردن جستجو"
+msgstr ""
+
+#: inc/panel-settings.php:573
+msgid "نمایش/مخفی کردن سبد خرید"
+msgstr ""
+
+#: inc/panel-settings.php:583
+msgid "منو موبایل"
+msgstr ""
+
+#: inc/panel-settings.php:591
+msgid "جستجو در موبایل"
+msgstr ""
+
+#: inc/panel-settings.php:592
+msgid "نمایش/مخفی کردن فرم جستجو در منوی موبایل"
+msgstr ""
+
+#: inc/panel-settings.php:597
+msgid "سبد خرید در موبایل"
+msgstr ""
+
+#: inc/panel-settings.php:598
+msgid "نمایش/مخفی کردن سبد خرید در منوی موبایل"
+msgstr ""
+
+#: inc/panel-settings.php:603
+msgid "متن یا شرتکد در موبایل"
+msgstr ""
+
+#: inc/panel-settings.php:604
+msgid ""
+"Place here text you want to see in the mobile nav footer area. You can use "
+"shortocdes. Ex.: array(social_buttons)"
+msgstr ""
+
+#: inc/panel-settings.php:613
+msgid "استایل"
+msgstr ""
+
+#: inc/panel-settings.php:621
+msgid "پس زمینه بدنه سایت"
+msgstr ""
+
+#: inc/panel-settings.php:634
+msgid "استایل وبلاگ"
+msgstr ""
+
+#: inc/panel-settings.php:641
+msgid "پس زمینه محتوا و سایدبار صفحه وبلاگ"
+msgstr ""
+
+#: inc/panel-settings.php:654
+msgid "رنگ مرز باکس های وبلاگ و صفحات آرشیو"
+msgstr ""
+
+#: inc/panel-settings.php:670
+msgid "رنگ های جانبی"
+msgstr ""
+
+#: inc/panel-settings.php:671
+msgid "شامل رنگ های بعضی از آیکون ها"
+msgstr ""
+
+#: inc/panel-settings.php:683
+msgid "تایپوگرافی"
+msgstr ""
+
+#: inc/panel-settings.php:691
+msgid "بدنه سایت"
+msgstr ""
+
+#: inc/panel-settings.php:692
+msgid "فونت دلخواه برای متن بدنه اصلی سایت انتخاب کنید."
+msgstr ""
+
+#: inc/panel-settings.php:699
+msgid "منو"
+msgstr ""
+
+#: inc/panel-settings.php:700
+msgid "فونت دلخواه برای منو انتخاب کنید"
+msgstr ""
+
+#: inc/panel-settings.php:708
+msgid "لینک ها"
+msgstr ""
+
+#: inc/panel-settings.php:709
+msgid "فونت دلخواه برای لینک ها انتخاب کنید"
+msgstr ""
+
+#: inc/panel-settings.php:718
+msgid "H1"
+msgstr ""
+
+#: inc/panel-settings.php:726
+msgid "H2"
+msgstr ""
+
+#: inc/panel-settings.php:734
+msgid "H3"
+msgstr ""
+
+#: inc/panel-settings.php:742
+msgid "H4"
+msgstr ""
+
+#: inc/panel-settings.php:750
+msgid "H5"
+msgstr ""
+
+#: inc/panel-settings.php:758
+msgid "H6"
+msgstr ""
+
+#: inc/panel-settings.php:766
+msgid "تگ های p"
+msgstr ""
+
+#: inc/panel-settings.php:779
+msgid "وبلاگ"
+msgstr ""
+
+#: inc/panel-settings.php:787
+msgid "عنوان سفارشی نوشته های تکی"
+msgstr ""
+
+#: inc/panel-settings.php:793
+msgid "موقعیت سایدبار نوشته های تکی"
+msgstr ""
+
+#: inc/panel-settings.php:794 inc/panel-settings.php:863
+msgid "موقعیت سایدبار بلاگ را تنظیم یا مخفی کنید"
+msgstr ""
+
+#: inc/panel-settings.php:798 inc/panel-settings.php:867
+#: inc/panel-settings.php:1159
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/panel-settings.php:802 inc/panel-settings.php:871
+#: inc/panel-settings.php:1163 inc/panel-settings.php:1269
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/panel-settings.php:806 inc/panel-settings.php:875
+#: inc/panel-settings.php:1167 inc/panel-settings.php:1273
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/panel-settings.php:815
+msgid "نمایش اطلاعات نویسنده"
+msgstr ""
+
+#: inc/panel-settings.php:816
+msgid ""
+"Displays author information at the bottom. Will only be displayed if the "
+"author description is filled."
+msgstr ""
+"اطلاعات نویسنده را در پایین نمایش می دهد. فقط در صورتی نمایش داده می شود که "
+"توضیحات نویسنده پر شده باشد"
+
+#: inc/panel-settings.php:822
+msgid "نمایش نوشته های مرتبط؟"
+msgstr ""
+
+#: inc/panel-settings.php:823
+msgid "انتخاب کنید که آیا نوشته های مرتبط بعد از محتوای نوشته نمایش داده شود؟"
+msgstr ""
+
+#: inc/panel-settings.php:830
+msgid "نمایش اطلاعات نوشته تکی؟"
+msgstr ""
+
+#: inc/panel-settings.php:831
+msgid ""
+"انتخاب کنید که آیا اطلاعات نوشته مثل تاریخ و دسته بندی و آماز بازدید نمایش "
+"داده شود یا خیر"
+msgstr ""
+
+#: inc/panel-settings.php:838
+msgid "نمایش تصویر شاخص نوشته های بلاگ؟"
+msgstr ""
+
+#: inc/panel-settings.php:839
+msgid ""
+"انتخاب کنید که می خواهید تصویر شاخص نوشته های بلاگ در صفحه نوشته تکی نمایش "
+"داده شود یا خیر؟"
+msgstr ""
+
+#: inc/panel-settings.php:846
+msgid "شرتکد فرم گزارش مشکل دانلود"
+msgstr ""
+
+#: inc/panel-settings.php:847
+msgid ""
+"یک فرم با فرم ساز دلخواه خود بسازید و شرتکد آن را جهت نمایش در اینجا قرار "
+"دهید."
+msgstr ""
+
+#: inc/panel-settings.php:855
+msgid "آرشیو بلاگ"
+msgstr ""
+
+#: inc/panel-settings.php:862
+msgid "موقعیت سایدبار آرشیو نوشته ها"
+msgstr ""
+
+#: inc/panel-settings.php:884
+msgid "پس زمینه آیتم های مقالات"
+msgstr ""
+
+#: inc/panel-settings.php:893
+msgid "رنگ متن آیتم ها "
+msgstr ""
+
+#: inc/panel-settings.php:903 inc/panel-settings.php:1401
+msgid "تنظیمات اشتراک گذاری"
+msgstr ""
+
+#: inc/panel-settings.php:909
+msgid "اشتراک استوری"
+msgstr ""
+
+#: inc/panel-settings.php:910
+msgid "فعال یا غیرفعال کردن اشتراک گذاری نوشته های بلاگ"
+msgstr ""
+
+#: inc/panel-settings.php:913
+msgid "اجازه اشتراک گذاری"
+msgstr ""
+
+#: inc/panel-settings.php:914
+msgid "خیر"
+msgstr ""
+
+#: inc/panel-settings.php:923
+msgid "پاورقی"
+msgstr ""
+
+#: inc/panel-settings.php:931
+msgid "انتخاب فوتر المنتوری"
+msgstr ""
+
+#: inc/panel-settings.php:938
+msgid "قابلیت مشاهده فوتر"
+msgstr ""
+
+#: inc/panel-settings.php:939
+msgid "نمایش یا مخفی کردن فوتر"
+msgstr ""
+
+#: inc/panel-settings.php:946
+msgid "موج های بالای فوتر"
+msgstr ""
+
+#: inc/panel-settings.php:947
+msgid "نمایش یا مخفی کردن موج های بالای فوتر"
+msgstr ""
+
+#: inc/panel-settings.php:954
+msgid "رنگ متن فوتر "
+msgstr ""
+
+#: inc/panel-settings.php:964
+msgid "پس زمینه فوتر"
+msgstr ""
+
+#: inc/panel-settings.php:975
+msgid "ابزارک های فوتر"
+msgstr ""
+
+#: inc/panel-settings.php:976
+msgid "Show or hide footer widgets"
+msgstr ""
+
+#: inc/panel-settings.php:983
+msgid "ستون های فوتر"
+msgstr ""
+
+#: inc/panel-settings.php:984
+msgid "Set columns layout for footer to split widgets."
+msgstr ""
+
+#: inc/panel-settings.php:1016
+msgid "کپی رایت"
+msgstr ""
+
+#: inc/panel-settings.php:1023
+msgid "طرح کپی رایت"
+msgstr ""
+
+#: inc/panel-settings.php:1025 inc/panel-settings.php:1178
+msgid "2 ستونه"
+msgstr ""
+
+#: inc/panel-settings.php:1026
+msgid "مرکز"
+msgstr ""
+
+#: inc/panel-settings.php:1035
+msgid "متن کپی رایت"
+msgstr ""
+
+#: inc/panel-settings.php:1037
+msgid "اینجا متن کپی رایت خودتون رو اضافه کنید."
+msgstr ""
+
+#: inc/panel-settings.php:1042
+msgid "متن کنار کپی رایت"
+msgstr ""
+
+#: inc/panel-settings.php:1043
+msgid ""
+"اینجا متن سمت چپی کپی رایت رو می تونید وارد کنید از شورتکد هم می تونید "
+"استفاده کنید [social_networks]"
+msgstr ""
+
+#: inc/panel-settings.php:1049
+msgid "دکمه اسکرول به بالا"
+msgstr ""
+
+#: inc/panel-settings.php:1055
+msgid ""
+"شما برای اینکه تنظیمات این بخش رو مشاهده کنید باید از بخش \"پاورقی\" فوتر پیش "
+"فرض قالب رو انتخاب کنید"
+msgstr ""
+
+#: inc/panel-settings.php:1063
+msgid "ثبت نام و ورود"
+msgstr ""
+
+#: inc/panel-settings.php:1070
+msgid "تنظیمات عضویت و ورود"
+msgstr ""
+
+#: inc/panel-settings.php:1077
+msgid "محتوای کنار فرم عضویت"
+msgstr ""
+
+#: inc/panel-settings.php:1082
+msgid "محتوای کنار فرم ورود"
+msgstr ""
+
+#: inc/panel-settings.php:1089
+msgid "تنظیمات حساب کاربری"
+msgstr ""
+
+#: inc/panel-settings.php:1096
+msgid "پس زمینه پنل کاربری"
+msgstr ""
+
+#: inc/panel-settings.php:1115
+msgid "لینک اینستاگرام شما"
+msgstr ""
+
+#: inc/panel-settings.php:1121
+msgid "لینک کانال تلگرام شما"
+msgstr ""
+
+#: inc/panel-settings.php:1127
+msgid "لینک چنل یوتوب شما"
+msgstr ""
+
+#: inc/panel-settings.php:1133
+msgid "لینک کانال آپارات شما"
+msgstr ""
+
+#: inc/panel-settings.php:1141
+msgid "دوره ها"
+msgstr ""
+
+#: inc/panel-settings.php:1147
+msgid "تنظیمات آرشیو دوره ها"
+msgstr ""
+
+#: inc/panel-settings.php:1154
+msgid "موقعیت سایدبار"
+msgstr ""
+
+#: inc/panel-settings.php:1155
+msgid "از اینجا موقعیت سایدبار فروشگاه رو تنظیم کنید"
+msgstr ""
+
+#: inc/panel-settings.php:1175
+msgid "ستون های دوره ها"
+msgstr ""
+
+#: inc/panel-settings.php:1176
+msgid "تعداد ستون های دوره ها در صفحات آرشیو رو از اینجا مشخص کنید"
+msgstr ""
+
+#: inc/panel-settings.php:1179
+msgid "3 ستونه"
+msgstr ""
+
+#: inc/panel-settings.php:1180
+msgid "4 ستونه"
+msgstr ""
+
+#: inc/panel-settings.php:1188
+msgid "تعداد دوره ها در هر صفحه"
+msgstr ""
+
+#: inc/panel-settings.php:1189
+msgid "تعداد آیتم هایی که در صفحات آرشیو باید نمایش داده شود را مشخص کنید."
+msgstr ""
+
+#: inc/panel-settings.php:1197
+msgid "صفحه دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1207
+msgid "متن دکمه ثبت نام دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1214
+msgid "متن باکس گارانتی بازگشت وجه"
+msgstr ""
+
+#: inc/panel-settings.php:1220
+msgid "لینک صفحه توضیحات گارانتی"
+msgstr ""
+
+#: inc/panel-settings.php:1222
+msgid ""
+"لینک توضیحات صفحه بازگشت وجه و گارانتی را اینجا قرار دهید اگر نمی خواهید "
+"نمایش داده شود اینجا را خالی بزارید."
+msgstr ""
+
+#: inc/panel-settings.php:1229
+msgid "متن عضویت ویژه"
+msgstr ""
+
+#: inc/panel-settings.php:1231
+msgid ""
+"از اینجا می تونید متن باکس عضویت ویژه ای که در سایدبار دوره ها قرار دارد را "
+"مشخص کنید"
+msgstr ""
+
+#: inc/panel-settings.php:1238
+msgid "متن لینک عضویت ویژه"
+msgstr ""
+
+#: inc/panel-settings.php:1240
+msgid "از اینجا می تونید متن لینک عضویت ویژه رو قرار دهید."
+msgstr ""
+
+#: inc/panel-settings.php:1246
+msgid "لینک باکس عضویت ویژه"
+msgstr ""
+
+#: inc/panel-settings.php:1248
+msgid ""
+"از اینجا می تونید لینک صفحه ثبت نام یا توضیحات عضویت ویژه رو در صورت وجود "
+"قرار دهید."
+msgstr ""
+
+#: inc/panel-settings.php:1256
+msgid "متن دانشجوی دوره هستید بعد از ثبت نام دانشجو"
+msgstr ""
+
+#: inc/panel-settings.php:1263
+msgid "موقعیت سایدبار صفحه دوره تکی"
+msgstr ""
+
+#: inc/panel-settings.php:1264
+msgid "موقعیت سایدبار برگه دوره تکی را انتخاب کنید."
+msgstr ""
+
+#: inc/panel-settings.php:1281
+msgid "دریافت فایل های دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1282
+msgid "نمایش و مخفی کردن بخش دریافت فایل های دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1285 inc/panel-settings.php:1296
+#: inc/panel-settings.php:1306 inc/panel-settings.php:1317
+#: inc/panel-settings.php:1327 inc/panel-settings.php:1363
+msgid "نمایش"
+msgstr ""
+
+#: inc/panel-settings.php:1286 inc/panel-settings.php:1297
+#: inc/panel-settings.php:1307 inc/panel-settings.php:1318
+#: inc/panel-settings.php:1328 inc/panel-settings.php:1364
+msgid "مخفی"
+msgstr ""
+
+#: inc/panel-settings.php:1292
+msgid "تعداد دانشجویان دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1293
+msgid "نمایش یا مخفی کردن تعداد دانشجویان دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1302
+msgid "آمار بازدید و تعداد نظرات"
+msgstr ""
+
+#: inc/panel-settings.php:1303
+msgid "نمایش و مخفی کردن بخش تعداد بازدید و نظرات دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1313
+msgid "آمار خلاصه امتیاز دانشجویان"
+msgstr ""
+
+#: inc/panel-settings.php:1314
+msgid "نمایش و مخفی کردن باکس خلاصه امتیازات دانشجویان"
+msgstr ""
+
+#: inc/panel-settings.php:1323
+msgid "نمایش / مخی کردن دوره های مرتبط"
+msgstr ""
+
+#: inc/panel-settings.php:1324
+msgid ""
+"با استفاده از این گزینه می توانید دروه های مرتبط در برگه دوره ها را خاموش و "
+"روشن کنید."
+msgstr ""
+
+#: inc/panel-settings.php:1334
+msgid "تعداد دوره های مرتبط"
+msgstr ""
+
+#: inc/panel-settings.php:1335
+msgid "تعداد دوره های مرتبط در صفحه دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1345
+msgid "محتوای بلوک قوانین ثبت نظر در برگه دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1352
+msgid "پاپ آپ مشاوره"
+msgstr ""
+
+#: inc/panel-settings.php:1359
+msgid "بخش درخواست مشاوره"
+msgstr ""
+
+#: inc/panel-settings.php:1360
+msgid "فعال یا غیر فعال کردن بخش درخواست مشاوره در صفحه دوره"
+msgstr ""
+
+#: inc/panel-settings.php:1370
+msgid "شماره تلفن داخل پاپ آپ"
+msgstr ""
+
+#: inc/panel-settings.php:1376
+msgid "شرتکد فرم درخواست تماس"
+msgstr ""
+
+#: inc/panel-settings.php:1377
+msgid "شما می توانید هر فرم دلخواهی که ساخته اید را در این بخش وارد کنید"
+msgstr ""
+
+#: inc/panel-settings.php:1384
+msgid "تصویر پس زمینه بلوک درخواست مشاوره"
+msgstr ""
+
+#: inc/panel-settings.php:1394
+msgid ""
+"شما برای اینکه تنظیمات این بخش رو مشاهده کنید باید از بخش \"عمومی\" گزینه "
+"استاد رو برای صفحه محصول انتخاب کنید"
+msgstr ""
+
+#: inc/panel-settings.php:1407
+msgid "اشتراک گذاری محصول"
+msgstr ""
+
+#: inc/panel-settings.php:1410
+msgid "فعال"
+msgstr ""
+
+#: inc/panel-settings.php:1411
+msgid "غیرفعال"
+msgstr ""
+
+#: inc/panel-settings.php:1420
+msgid "شبکه های اجتماعی"
+msgstr ""
+
+#: inc/panel-settings.php:1429
+msgid "Social Networks Ordering"
+msgstr "نمایش شبکه های اجتماعی"
+
+#: inc/panel-settings.php:1470
+msgid "بازشدن لینک"
+msgstr ""
+
+#: inc/panel-settings.php:1471
+msgid ""
+"مشخص کنید که کاربر بعد از کلیک کردن روی لینک های شبکه اجتماعی در همان تب به "
+"لینک هدایت شوند یا به تب جدید بروند."
+msgstr ""
+
+#: inc/panel-settings.php:1474
+msgid "تب فعلی مرورگر"
+msgstr ""
+
+#: inc/panel-settings.php:1475
+msgid "بازکردن تب جدید"
+msgstr ""
+
+#: inc/panel-settings.php:1717
+msgid "Documentation"
+msgstr ""
+
+#: inc/panel-settings.php:1735
+msgid "Customizer Only"
+msgstr ""
+
+#: inc/panel-settings.php:1736
+msgid "This Section should be visible only in Customizer"
+msgstr ""
+
+#: inc/panel-settings.php:1742
+msgid "Customizer Only Option"
+msgstr ""
+
+#: inc/panel-settings.php:1743
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: inc/panel-settings.php:1744
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: inc/panel-settings.php:1747
+msgid "Opt 1"
+msgstr ""
+
+#: inc/panel-settings.php:1748
+msgid "Opt 2"
+msgstr ""
+
+#: inc/panel-settings.php:1749
+msgid "Opt 3"
+msgstr ""
+
+#: inc/panel-settings.php:1857
+msgid "Section via hook"
+msgstr ""
+
+#: inc/panel-settings.php:1858
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+
+#: inc/panel-settings.php:1894
+msgid "Testing filter hook!"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های ضروری"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#. translators: %s: plugin name.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه: %s"
+
+#. translators: %s: plugin name.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "بروزرسانی افزونه : %s"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "یک مشکلی با API افزونه رخ داده است."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این قالب به افزونه های روبرو نیازمند هست: %1$s."
+msgstr[1] "این قالب به افزونه روبرو نیازمند هست: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این قالب افزونه های روبرو را پیشنهاد می دهد:  %1$s."
+msgstr[1] "این قالب افزونه روبرو را پیشنهاد می دهد:  %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"افزونه های روبرو نیاز به بروزرسانی دارند تا با آخرین قابلیت های قالب شما "
+"سازگار باشد %1$s."
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "برای افزونه های روبرو آپدیت اومده: %1$s."
+msgstr[1] "برای افزونه روبرو یک آپدیت اومده : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های ضروری روبرو نصب نشده اند : %1$s."
+msgstr[1] "افزونه ضروری روبرو نصب نشده  : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های پیشنهادی روبرو غیرفعال می باشد : %1$s."
+msgstr[1] "افزونه پیشنهادی روبرو غیرفعال می باشد : %1$s."
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "شروع نصب افزونه ها"
+msgstr[1] "شروع نصب افزونه"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "شروع آپدیت افزونه ها"
+msgstr[1] "شروع آپدیت افزونه"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "شروع به نصب افزونه ها"
+msgstr[1] "شروع به نصب افزونه"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "برگشت به نصب افزونه های ضروری"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:393
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:920
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2626
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr "برگشت به پیشخوان"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:394
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت نصب شد."
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:395
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه های روبرو به درستی نصب شد."
+msgstr[1] "افزونه روبرو به درستی نصب شد."
+
+#. translators: 1: plugin name.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "هیچ اقدامی نیاز نیست افزونه %1$s قبلاً نصب شده."
+
+#. translators: 1: plugin name.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "بستن این پیغام"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:1027
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:1214
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#. translators: %s: version number
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "ضروری"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "پیشنهادی"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "لینک خارجی"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "پیش نیاز پکیج"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما فعال نشده"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "فعال"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "آپدیت ضروری در دسترس نیست"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "به آپدیت نیاز داره"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "بروزرسانی پیشنهاد شده"
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه <span class=\"count\">(%s)</span>"
+msgstr[1] "همه <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب <span class=\"count\">(%s)</span>"
+msgstr[1] "برای نصب <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "بروزرسانی در دسترس <span class=\"count\">(%s)</span>"
+msgstr[1] "بروزرسانی در دسترس <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "نسخه نصب شده"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "حداقل نسخه ضروری"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "نسخه در دسترس"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr "هیچ افزونه ای برای نصب نیست. باید نصب یا فعال کنید "
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "افزونه"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "منبع"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "نوع"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "نسخه"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2647
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr "وضعیت"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "نصب"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2816
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3602
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3602
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/TGM-plugin/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:115
+msgid "Test Metabox"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:148
+#: inc/plugins/cmb2/example-functions.php:492
+msgid "Test Text"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:149
+#: inc/plugins/cmb2/example-functions.php:162
+#: inc/plugins/cmb2/example-functions.php:175
+#: inc/plugins/cmb2/example-functions.php:182
+#: inc/plugins/cmb2/example-functions.php:195
+#: inc/plugins/cmb2/example-functions.php:203
+#: inc/plugins/cmb2/example-functions.php:212
+#: inc/plugins/cmb2/example-functions.php:220
+#: inc/plugins/cmb2/example-functions.php:235
+#: inc/plugins/cmb2/example-functions.php:243
+#: inc/plugins/cmb2/example-functions.php:251
+#: inc/plugins/cmb2/example-functions.php:268
+#: inc/plugins/cmb2/example-functions.php:277
+#: inc/plugins/cmb2/example-functions.php:293
+#: inc/plugins/cmb2/example-functions.php:300
+#: inc/plugins/cmb2/example-functions.php:307
+#: inc/plugins/cmb2/example-functions.php:332
+#: inc/plugins/cmb2/example-functions.php:345
+#: inc/plugins/cmb2/example-functions.php:358
+#: inc/plugins/cmb2/example-functions.php:370
+#: inc/plugins/cmb2/example-functions.php:384
+#: inc/plugins/cmb2/example-functions.php:392
+#: inc/plugins/cmb2/example-functions.php:401
+#: inc/plugins/cmb2/example-functions.php:408
+#: inc/plugins/cmb2/example-functions.php:422
+#: inc/plugins/cmb2/example-functions.php:493
+#: inc/plugins/cmb2/example-functions.php:583
+#: inc/plugins/cmb2/example-functions.php:591
+#: inc/plugins/cmb2/example-functions.php:598
+#: inc/plugins/cmb2/example-functions.php:605
+#: inc/plugins/cmb2/example-functions.php:612
+#: inc/plugins/cmb2/example-functions.php:619
+#: inc/plugins/cmb2/example-functions.php:626
+#: inc/plugins/cmb2/example-functions.php:652
+#: inc/plugins/cmb2/example-functions.php:660
+#: inc/plugins/cmb2/example-functions.php:667
+#: inc/plugins/cmb2/example-functions.php:717
+msgid "field description (optional)"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:161
+msgid "Test Text Small"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:174
+msgid "Test Text Medium"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:181
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:185
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:194
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:202
+msgid "Website URL"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:211
+msgid "Test Text Email"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:219
+msgid "Test Time"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:227
+#: inc/plugins/cmb2/example-functions.php:228
+msgid "Time zone"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:234
+msgid "Test Date Picker"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:242
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:250
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:267
+msgid "Test Money"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:276
+msgid "Test Color Picker"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:292
+msgid "Test Text Area"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:299
+msgid "Test Text Area Small"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:306
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:324
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:325
+msgid "This is a title description"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:331
+msgid "Test Select"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:337
+#: inc/plugins/cmb2/example-functions.php:350
+#: inc/plugins/cmb2/example-functions.php:362
+msgid "Option One"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:338
+#: inc/plugins/cmb2/example-functions.php:351
+#: inc/plugins/cmb2/example-functions.php:363
+msgid "Option Two"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:339
+#: inc/plugins/cmb2/example-functions.php:352
+#: inc/plugins/cmb2/example-functions.php:364
+msgid "Option Three"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:344
+msgid "Test Radio inline"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:357
+msgid "Test Radio"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:369
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:383
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:391
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:400
+msgid "Test Checkbox"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:407
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:413
+msgid "Check One"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:414
+msgid "Check Two"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:415
+msgid "Check Three"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:421
+msgid "Test wysiwyg"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:431
+msgid "Test Image"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:432
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:438
+msgid "Multiple Files"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:439
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:446
+msgid "oEmbed"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: inc/plugins/cmb2/example-functions.php:449
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:481
+msgid "About Page Metabox"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:511
+msgid "Repeating Field Group"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:519
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:521
+msgid "Entry {#}"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:522
+msgid "Add Another Entry"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:523
+msgid "Remove Entry"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:537
+msgid "Entry Title"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:545
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:551
+msgid "Entry Image"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:557
+msgid "Image Caption"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:582
+#: inc/plugins/cmb2/example-functions.php:651
+msgid "Extra Info"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:590
+msgid "Avatar"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:597
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:604
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:611
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:618
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:625
+msgid "User Field"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:644
+msgid "Category Metabox"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:659
+msgid "Term Image"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:666
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:685
+msgid "Theme Options"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:716
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:753
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:785
+msgid "REST Test Box"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:794
+msgid "REST Test Text"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:795
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:801
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: inc/plugins/cmb2/example-functions.php:802
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2.php:618
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: inc/plugins/cmb2/includes/CMB2_Ajax.php:189
+#: inc/plugins/cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Base.php:423
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Base.php:427
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in favor "
+"of the \"%2$s\" parameter."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Base.php:457
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Base.php:459
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Base.php:492
+#: inc/plugins/cmb2/includes/CMB2_Hookup_Base.php:102
+#: inc/plugins/cmb2/includes/CMB2_Options.php:247
+#: inc/plugins/cmb2/includes/CMB2_Options_Hookup.php:369
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Base.php:510
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Field.php:1443
+msgid "Add Group"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Field.php:1444
+msgid "Remove Group"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Field.php:1476
+#: inc/plugins/cmb2/includes/CMB2_Field.php:1480
+msgid "None"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Field.php:1594
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Field_Display.php:453
+#: inc/plugins/cmb2/includes/CMB2_JS.php:242
+#: inc/plugins/cmb2/includes/types/CMB2_Type_File_Base.php:90
+msgid "File:"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Hookup.php:188
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Hookup.php:192
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Hookup.php:560
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:177
+#: inc/plugins/cmb2/includes/CMB2_JS.php:222
+msgid "Clear"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:178
+msgid "Default"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:179
+msgid "Select Color"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:180
+msgid "Current Color"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:212
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:213
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:214
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:215
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:216
+msgid ""
+"January, February, March, April, May, June, July, August, September, October, "
+"November, December"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:217
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:218 woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:219
+msgid "Prev"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:220
+msgid "Today"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:221
+#: inc/plugins/cmb2/includes/CMB2_JS.php:231
+msgid "Done"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:225
+msgid "Choose Time"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:226
+msgid "Time"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:227
+msgid "Hour"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:228
+msgid "Minute"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:229
+msgid "Second"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:230
+msgid "Now"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:232
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:238
+msgid "Use this file"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:239
+msgid "Use these files"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:240
+#: inc/plugins/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "Remove Image"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:243
+#: inc/plugins/cmb2/includes/types/CMB2_Type_File_Base.php:93
+msgid "Download"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_JS.php:244
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr "هیچ آپدیتی نیست"
+
+#: inc/plugins/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/CMB2_Types.php:408
+msgid "Remove Row"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/helper-functions.php:308
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well as "
+"the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes will "
+"be returned fully rendered. By default, the names of the callback handers for "
+"the renderable attributes will be returned."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#. translators: %s: register_routes()
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:35
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:47
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:59
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:71
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:83
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:95
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:107
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:119
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:131
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:143
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:155
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Counter_Base.php:50
+msgid "Words left"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Counter_Base.php:51
+msgid "Words"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Counter_Base.php:56
+msgid "Characters left"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Counter_Base.php:57
+msgid "Characters"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Counter_Base.php:62
+msgid "Your text may be truncated."
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/plugins/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: inc/templates/header/header-button.php:25
+#: woocommerce/myaccount/form-login.php:42
+msgid "ورود"
+msgstr ""
+
+#: inc/templates/header/header-button.php:30
+#, php-format
+msgid "هنوز عضو نشده اید؟ %1$sثبت نام%2$s"
+msgstr ""
+
+#: inc/templates/login-modal.php:21
+msgid "Username"
+msgstr ""
+
+#: inc/templates/login-modal.php:25 woocommerce/global/form-login.php:38
+msgid "Password"
+msgstr ""
+
+#: inc/templates/login-modal.php:33 woocommerce/global/form-login.php:47
+#: woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: inc/templates/login-modal.php:35 woocommerce/global/form-login.php:54
+#: woocommerce/myaccount/form-login.php:65
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/templates/login-modal.php:38 woocommerce/myaccount/form-login.php:62
+msgid "Log in"
+msgstr ""
+
+#: inc/woocommerce_function.php:19 inc/woocommerce_function.php:21
+msgid "رایگان!"
+msgstr ""
+
+#: inc/woocommerce_function.php:34
+msgid "یک استاد را انتخاب کنید"
+msgstr ""
+
+#: inc/woocommerce_function.php:137
+msgid "ثبت نام در دوره"
+msgstr ""
+
+#: inc/woocommerce_function.php:144
+msgid "شرکت در دوره"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:38
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:126
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#. translators: %s location.
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+#: woocommerce/checkout/review-order.php:103
+#: woocommerce/myaccount/my-orders.php:17 woocommerce/order/order-details.php:52
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:78
+#: woocommerce/checkout/form-pay.php:27 woocommerce/checkout/review-order.php:23
+#: woocommerce/order/order-details.php:51
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:98
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:104
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:93
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146 woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart. Please go back to the cart "
+"page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:25
+msgid "Return to cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "اطلاعات شما برای خرید"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:60
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:25
+#: woocommerce/checkout/thankyou.php:48
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:29
+#: woocommerce/checkout/thankyou.php:53
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:33
+#: woocommerce/checkout/thankyou.php:65
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:38
+#: woocommerce/checkout/thankyou.php:71
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/terms.php:31
+msgid "required"
+msgstr "ضروری"
+
+#: woocommerce/checkout/thankyou.php:32
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/merchant "
+"has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43 woocommerce/checkout/thankyou.php:85
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:27
+msgid "Min price"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr ""
+
+#. translators: Filter: verb "to filter"
+#: woocommerce/content-widget-price-filter.php:30
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:32
+msgid "Price:"
+msgstr ""
+
+#. translators: %s: Comment author.
+#: woocommerce/content-widget-reviews.php:38
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51
+msgid "Login"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:21
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/dashboard.php:110
+msgid "Current wallet balance"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:40 woocommerce/myaccount/orders.php:100
+msgid "Browse products"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:42
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:54
+#: woocommerce/myaccount/payment-methods.php:77
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:60
+msgid ""
+"New payment methods can only be added during checkout. Please contact us if "
+"you require assistance."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr "ذخیره تنظیمات"
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+#: woocommerce/order/order-details-customer.php:31
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/order/order-details-customer.php:50
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:76
+msgid "ثبت نام"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:102
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:110
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:25
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "Add"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:29
+msgid "Available downloads"
+msgstr ""
+
+#. translators: %s product name
+#: woocommerce/myaccount/my-downloads.php:39
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:37
+msgid "Recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:63 woocommerce/myaccount/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:75 woocommerce/myaccount/orders.php:61
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:101
+msgid "No order has been made yet."
+msgstr ""
+
+#. translators: 1: credit card type 2: last 4 digits
+#: woocommerce/myaccount/payment-methods.php:49
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#. translators: 1: order number 2: order date 3: order status
+#: woocommerce/myaccount/view-order.php:28 woocommerce/order/tracking.php:30
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:37 woocommerce/order/tracking.php:41
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:43 woocommerce/order/tracking.php:47
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:34
+msgid ""
+"To track your order please enter your Order ID in the box below and press the "
+"\"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Billing email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:49
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:22
+msgid "Order again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:34
+#: woocommerce/order/order-details-customer.php:52
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:93
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:24
+msgid "Downloads"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:56
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:62
+msgid "Never"
+msgstr ""
+
+#: woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "هنوز هیچ دیدگاهی برای این دوره نوشته نشده."
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "اولین نفری باشید که برای دوره &ldquo;%s&rdquo; دیدگاه ارسال می کند :)"
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#. translators: %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "به محصول امتیاز دهید"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:142
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:29
+msgid "Reply"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "paradox"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://kitwp.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With paradox, you can sell, market and create your online courses in one "
+"place. It is perfect for universities, teachers, and tutors, but can also be "
+"used by individuals and businesses."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Isaac Shafaei"
+msgstr ""
+
+#~ msgid "Display Author Info?"
+#~ msgstr "نمایش اطلاعات نویسنده؟"
+
+#~ msgid "Display Article Navigation?"
+#~ msgstr "نمایش ناوبری مقاله"
+
+#~ msgid "Displays article navigation after post content."
+#~ msgstr "ناوبری مقاله را پس از محتوای پست نمایش می دهد."

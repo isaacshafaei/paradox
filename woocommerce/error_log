@@ -1,0 +1,8 @@
+[07-May-2023 16:20:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/digital2/paradox.kitwp.com/wp-content/themes/paradox/woocommerce/content-single-product-rocket.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/digital2/paradox.kitwp.com/wp-content/themes/paradox/woocommerce/content-single-product-rocket.php on line 5
+[07-May-2023 16:20:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/digital2/paradox.kitwp.com/wp-content/themes/paradox/woocommerce/content-single-product-rocket.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/digital2/paradox.kitwp.com/wp-content/themes/paradox/woocommerce/content-single-product-rocket.php on line 5

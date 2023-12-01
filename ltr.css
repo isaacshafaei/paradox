@@ -1,0 +1,15 @@
+.top-bar,.header{
+    direction: ltr;
+}
+.paradox-navigation .menu > ul > li ul, .paradox-navigation ul.menu > li ul,ul.menu .paradox-megamenu-wrapper{
+    left: 0;
+}
+.paradox-navigation .menu > ul > li ul li > ul, .paradox-navigation ul.menu > li ul li > ul{
+    left: 100%;
+}
+.paradox-navigation .menu > ul > li ul li > ul, .paradox-navigation ul.menu > li ul li > ul{
+    right: 100%;
+}
+.video_wrapper{
+    flex-direction: row-reverse;
+}
