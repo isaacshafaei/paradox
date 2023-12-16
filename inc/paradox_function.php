@@ -816,7 +816,7 @@ function faneshyar_metaboxes(){
 
         $courses_metaboxes->add_group_field($courses_group_sessions, array(
             'name' => __('جلسات', $textdomain),
-            'id' => $prefix . 'menu_lessons',
+            'id' => $perfix . 'menu_lessons',
             'type' => 'text',
             'repeatable' => true,
             'text' => array(
@@ -827,7 +827,7 @@ function faneshyar_metaboxes(){
         ));
         $courses_metaboxes->add_group_field($courses_group_sessions, array(
             'name' => __('لینک دانلود ها', $textdomain),
-            'id' => $prefix . 'link_lessons',
+            'id' => $perfix . 'link_lessons',
             'type' => 'text_url',
             'repeatable' => true,
             'text' => array(
@@ -838,8 +838,8 @@ function faneshyar_metaboxes(){
         ));
         $courses_metaboxes->add_group_field($courses_group_sessions, array(
             'name' => __('زمان ویدیوها', $textdomain),
-            'id' => $prefix . 'duration_time_lessons',
-            'type' => 'text_small',
+            'id' => $perfix . 'duration_time_lessons',
+            'type' => 'text_small',x
             'repeatable' => true,
             'text' => array(
                     'add_row_text' => 'اضافه کردن زمان ویدیو',
