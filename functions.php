@@ -1,4 +1,8 @@
 <?php
+	global $theme_version;
+	$theme_obj = wp_get_theme();
+	$theme_version = $theme_obj->get('Version');
+	
 //Theme Translation
   load_theme_textdomain('paradox', get_template_directory() . '/languages');
   $locale = get_locale();
@@ -262,9 +266,6 @@ if ( ! function_exists( 'paradox_mobile_nav' ) ) {
 
 // Enqueue styles
 function paradox_theme_scripts() {
-	global $theme_version;
-	$theme_obj = wp_get_theme();
-	$theme_version = $theme_obj->get('Version');
 
     wp_enqueue_style( 'main-style', get_stylesheet_uri() );
     wp_enqueue_style( 'fontawesome', get_template_directory_uri().'/assets/css/fontawesome.min.css' );
