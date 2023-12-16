@@ -839,7 +839,7 @@ function faneshyar_metaboxes(){
         $courses_metaboxes->add_group_field($courses_group_sessions, array(
             'name' => __('زمان ویدیوها', $textdomain),
             'id' => $perfix . 'duration_time_lessons',
-            'type' => 'text_small',x
+            'type' => 'text_small',
             'repeatable' => true,
             'text' => array(
                     'add_row_text' => 'اضافه کردن زمان ویدیو',
