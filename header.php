@@ -2,10 +2,11 @@
 $perfix = 'paradox_';
 $faive_icon = '';
 $faive_icon_retina = '';
+$header_layout ='';
 if(class_exists('Redux')){
     $header_layout =  paradox_settings('header_elementor');
-    $faive_icon = paradox_settings('favie_icon')['url'];
-    $faive_icon_retina = paradox_settings('favie_icon_retina')['url'];
+    $faive_icon = isset(paradox_settings('favie_icon')['url']);
+    $faive_icon_retina = isset(paradox_settings('favie_icon_retina')['url']);
 } ?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
@@ -34,7 +35,7 @@ if(!get_post_meta(get_the_ID( ), $perfix.'disable_header',true)){
     <div class="video_popup_inner"></div>
 </div>
 <?php
-if($header_layout != 'no-header'){ 
+if($header_layout != 'no-header' && is_plugin_active( 'elementor/elementor.php' )){ 
     echo \Elementor\Plugin::instance()->frontend->get_builder_content_for_display($header_layout);
     if(!get_post_meta(get_the_ID(  ), $perfix.'disable_bredacrumb_page',true) && !is_front_page( ) && !is_account_page()){
         echo '<div class="container">';

@@ -1,6 +1,7 @@
 <?php 
 $before_text_button = 'ورود و ثبت نام';
 $account_link = get_permalink( get_option('woocommerce_myaccount_page_id') );
+$before_link_button = '';
 if(class_exists('Redux')){
     $button_link = paradox_settings('button_link');
     if($button_link=='custom_link'){

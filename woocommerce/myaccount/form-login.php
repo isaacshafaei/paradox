@@ -16,7 +16,7 @@ if(class_exists('Redux')){
  *
  * @see     https://docs.woocommerce.com/document/template-structure/
  * @package WooCommerce\Templates
- * @version 6.0.0
+ * @version 7.0.1
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

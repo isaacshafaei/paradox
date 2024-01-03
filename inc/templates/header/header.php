@@ -2,8 +2,18 @@
 $stickey_header_class='';
 $full_width_class = '';
 $logo_image = '';
-$header_height = (paradox_settings('header_height_size'))?paradox_settings('header_height_size'):'80';
+$header_height = '';
+$header_height = '';
+$logo_width = '';
+$logo_padding['padding-top'] = '';
+$logo_padding['padding-bottom'] = '';
+$logo_padding['padding-left'] = '';
+$logo_padding['padding-right'] = '';
+$enable_button_hedaer = '';
+$enable_basket = '';
+$enable_basket_on_mobile = '';
 if(class_exists('Redux')){
+    $header_height = (paradox_settings('header_height_size'))?paradox_settings('header_height_size'):'80';
     if(paradox_settings('sticky_header') == true){
         $stickey_header_class = 'stickey_header';
     }
@@ -12,7 +22,7 @@ if(class_exists('Redux')){
     if($full_width_header==true){
         $full_width_class = 'header_full_width';
     }
-$logo_image = (paradox_settings('logo_image')['url'])?paradox_settings('logo_image')['url']:'';
+$logo_image = isset(paradox_settings('logo_image')['url'])?paradox_settings('logo_image')['url']:'';
 $logo_width = (paradox_settings('logo_image_width_size'))?paradox_settings('logo_image_width_size'):'170';
 $logo_padding = (paradox_settings('logo_image_padding'))?paradox_settings('logo_image_padding'):'0';
 $enable_button_hedaer = (paradox_settings('button_on_header')==true)?true:false;
@@ -26,7 +36,7 @@ $enable_basket_on_mobile = paradox_settings('basket_mobile');
                 <div class="column">
                     <div class="logo">
                         <a href="<?php echo home_url(); ?>">
-                            <img style="width:<?php echo $logo_width; ?>px;padding:<?php echo $logo_padding['padding-top'].' '.$logo_padding['padding-right'].' '.$logo_padding['padding-bottom'].' '.$logo_padding['padding-left'];?>" src="<?php echo ($logo_image)?$logo_image: '';?>" alt="">
+                            <img style="width:<?php echo $logo_width; ?>px;padding:<?php echo isset($logo_padding['padding-top']).' '.isset($logo_padding['padding-right']).' '.isset($logo_padding['padding-bottom']).' '.isset($logo_padding['padding-left']);?>" src="<?php echo ($logo_image)?$logo_image: '';?>" alt="">
                         </a>
                     </div>
                     <?php get_template_part('/inc/templates/header/main-menu'); ?>

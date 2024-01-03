@@ -1,4 +1,9 @@
 <?php 
+$enable_topbar = '';
+$topbar_theme = '';
+$phone_number = '';
+$email_addres = '';
+$enable_search = '';
 if(class_exists('Redux')){
     $full_width_header = paradox_settings('header_fullwidth');
     $full_width_class= '';

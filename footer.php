@@ -1,4 +1,8 @@
 <?php
+$footer_layout = '';
+$footer_enable = '';
+$footer_wave_enable = '';
+$footer_back_o_top = '';
 if(class_exists('Redux')){
     $footer_layout =  paradox_settings('footer_elementor');
     $footer_enable =  paradox_settings('footer_visibility');

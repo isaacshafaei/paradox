@@ -566,12 +566,14 @@ Redux::set_section(
 				'type' => 'switch',
 				'title' => __( 'نمایش/مخفی کردن جستجو' , 'paradox' ),
 				'required' => array( 'header_elementor', '=', 'no-header' ),
+				'default'  => true,
 			),
 			array(
 				'id' => 'enable_basket',
 				'type' => 'switch',
 				'title' => __( 'نمایش/مخفی کردن سبد خرید' , 'paradox' ),
 				'required' => array( 'header_elementor', '=', 'no-header' ),
+				'default'  => true,
 			),
 		)
 	)

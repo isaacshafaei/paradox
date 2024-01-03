@@ -62,6 +62,7 @@ if ( ! function_exists( 'paradox_get_header_list' ) ) {
 require_once get_template_directory().'/inc/plugins/TGM-plugin/class-tgm-plugin-activation.php';
 
 function paradox_register_required_plugins() {
+	global $theme_version;
 	$plugins = array(
 
 	array(
@@ -266,6 +267,7 @@ if ( ! function_exists( 'paradox_mobile_nav' ) ) {
 
 // Enqueue styles
 function paradox_theme_scripts() {
+	global $theme_version;
 
     wp_enqueue_style( 'main-style', get_stylesheet_uri() );
     wp_enqueue_style( 'fontawesome', get_template_directory_uri().'/assets/css/fontawesome.min.css' );

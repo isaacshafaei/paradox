@@ -1,5 +1,7 @@
 <?php get_header(); 
 $categories = get_the_category();
+$archive_post_sidebar_position = '';
+$choose_header = '';
 if(class_exists('Redux')){
     $choose_header = paradox_settings('header_elementor');
     $archive_post_sidebar_position = paradox_settings('archive_post_sidebar_position');

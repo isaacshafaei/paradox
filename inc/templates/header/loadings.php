@@ -1,4 +1,6 @@
 <?php 
+$loading_page = '';
+$enable_loading ='';
 if(class_exists('Redux')){
     $enable_loading = paradox_settings('enable_loading_page');
     $loading_page = paradox_settings('loading_page');

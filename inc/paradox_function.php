@@ -3,7 +3,7 @@ require_once TEMPLATEPATH . '/inc/plugins/cmb2/init.php';
 require_once TEMPLATEPATH . '/inc/cmb2-tabs.php';
 add_action( 'cmb2_admin_init', 'faneshyar_metaboxes' );
 function faneshyar_metaboxes(){
-
+    $choose_product_page = '';
     if(class_exists('Redux')){
         $choose_product_page =  paradox_settings('choose_product_page');
     }
